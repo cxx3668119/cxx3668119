@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=cxx3668119) -->
+产品有三宝，弹窗，浮层加引导；
+设计有三宝，透明，阴影加圆角；
+运营有三宝，短信，推送加红包；
+程序员有一宝，这个做不了。
